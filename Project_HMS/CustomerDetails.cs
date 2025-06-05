@@ -51,7 +51,7 @@ namespace Project_HMS
 
                 if (count == 1)
                 {
-                    MessageBox.Show("Customer Info Updated Successfully.");
+                    MessageBox.Show("Клієнта успішно оновлено.");
                 }
                 else
                 {

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\billhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\billhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\extraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\extraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\foodmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\foodmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|e:\\gameunit\\hotel_management_system_csharp\\project_hms\\project_hms\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\project_hms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CDB10E-FE16-4F19-BC9C-15F35AC138FD}|Project_HMS\\Project_HMS.csproj|solutionrelative:project_hms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\FoodMenu.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\FoodMenu.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\FoodMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project_HMS\\FoodMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:18:35.5Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtraService.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\ExtraService.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\ExtraService.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\ExtraService.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project_HMS\\ExtraService.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:18:32.937Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDetails.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\CustomerDetails.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\CustomerDetails.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\CustomerDetails.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project_HMS\\CustomerDetails.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:18:22.487Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillHistory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\BillHistory.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\BillHistory.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\BillHistory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project_HMS\\BillHistory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:18:00.154Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddRoom.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\AddRoom.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\AddRoom.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\AddRoom.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project_HMS\\AddRoom.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:18:18.872Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerDashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\ManagerDashboard.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\ManagerDashboard.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\ManagerDashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project_HMS\\ManagerDashboard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:18:38.811Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reservation.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\Reservation.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\Reservation.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\Reservation.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project_HMS\\Reservation.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:18:41.437Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddRoom.cs",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\AddRoom.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\AddRoom.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\AddRoom.cs",
+              "RelativeToolTip": "Project_HMS\\AddRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:39:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\DataAccess.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\DataAccess.cs",
+              "RelativeToolTip": "Project_HMS\\DataAccess.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:14:28.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\Login.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\Login.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\Login.cs",
+              "RelativeToolTip": "Project_HMS\\Login.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:17:53.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\Login.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\Login.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project_HMS\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:43:16.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\Reservation.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\Reservation.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\Reservation.cs",
+              "RelativeToolTip": "Project_HMS\\Reservation.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwOMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:18:32.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\Program.cs",
+              "RelativeDocumentMoniker": "Project_HMS\\Program.cs",
+              "ToolTip": "E:\\Gameunit\\Hotel_Management_System_CSharp\\Project_HMS\\Project_HMS\\Program.cs",
+              "RelativeToolTip": "Project_HMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:42:59.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
